@@ -1,3 +1,5 @@
+# Note: This program needs to run before installing QR Module 
+# and Image Module
 import qrcode
 from PIL import Image
 

@@ -1,7 +1,11 @@
-# Note: This program needs to run before installing QR Module 
-# and Image Module
-import qrcode
-from PIL import Image
+'''
+Note: Before running this program 
+QR Module and Image Module
+should be installed
+
+'''
+import qrcode           #QR Module
+from PIL import Image   #Image Module  
 
 qr=qrcode.QRCode(version=1,
                  error_correction=qrcode.constants.ERROR_CORRECT_H, box_size=18, border=4,)

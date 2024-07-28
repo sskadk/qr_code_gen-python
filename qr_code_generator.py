@@ -7,3 +7,5 @@ qr.add_data("Enter your data to make a QR")
 qr.make(fit=True)
 img=qr.make_image(fill_color="red", back_color="blue")
 img.save("NewQr.png")
+
+#Very_Simple

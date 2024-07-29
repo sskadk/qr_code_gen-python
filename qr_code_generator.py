@@ -8,4 +8,4 @@ qr.make(fit=True)
 img=qr.make_image(fill_color="red", back_color="blue")
 img.save("NewQr.png")
 
-#Very_Simple
+#Too_Simple

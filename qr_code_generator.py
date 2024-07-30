@@ -14,9 +14,5 @@ qr.add_data(f"{data}")
 qr.make(fit=True)
 img=qr.make_image(fill_color="white", back_color="black")
 img.save(f"{qrname}.png")
-=======
-img=qr.make_image(fill_color="red", back_color="blue")
-img.save("NewQr.png")
 
 #Too_Simple
-

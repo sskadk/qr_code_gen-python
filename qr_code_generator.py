@@ -1,5 +1,5 @@
 '''
-Note: 
+Important Note: 
 Before running this program:
                         --->  QR Module and Image Module should be installed
 '''

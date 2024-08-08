@@ -3,6 +3,7 @@ Note: Before running this program
 QR Module and Image Module
 should be installed
 '''
+
 import qrcode           #QR Module
 from PIL import Image   #Image Module  
 data=input("Enter Data of which you want to make QrCode:")

@@ -1,7 +1,7 @@
 '''
 Important Note: 
 Before running this program:
-                        --->  QR Module and Image Module should be installed
+--->  --->  --->  --->  --->  QR Module and Image Module should be installed
 '''
 
 import qrcode           #QR Module

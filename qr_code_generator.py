@@ -1,7 +1,7 @@
 '''
-Note: Before running this program 
-QR Module and Image Module
-should be installed
+Note: 
+Before running this program:
+                        --->  QR Module and Image Module should be installed
 '''
 
 import qrcode           #QR Module

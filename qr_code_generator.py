@@ -15,4 +15,6 @@ qr.make(fit=True)
 img=qr.make_image(fill_color="white", back_color="black")
 img.save(f"{qrname}.png")
 
-#Just_Simple_make_it_simple
+'''
+End of Program and is Just Simple
+'''

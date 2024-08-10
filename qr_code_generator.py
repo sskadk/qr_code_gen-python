@@ -4,8 +4,8 @@
 --->  QR Module and Image Module should be installed.  <---
 '''
 
-import qrcode           #QR Module
-from PIL import Image   #Image Module  
+import qrcode           # -->  Importing QR Module
+from PIL import Image   # -->  Importing PIL from Image Module  
 data=input("Enter Data of which you want to make QrCode:")
 qrname=input("Enter your QrCode Name:")
 qr=qrcode.QRCode(version=1,
